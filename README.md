@@ -23,5 +23,5 @@ Site feito para finalidade de estudo, foi utilizado HTML,CSS e Bootstrap. Foi re
   ### Demonstração 📱
 * Acesse esse link para visualizar o site:
 
-🌠https://dannycmmarques.github.io/dannyscoffee/🌠
+🌠 https://dannycmmarques.github.io/dannyscoffee/  🌠
 
