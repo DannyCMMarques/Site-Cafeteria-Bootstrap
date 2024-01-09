@@ -14,11 +14,8 @@ Meu foco é refletir sobre quais foram meus aprendizados durante essa prática, 
 Fique a vontade para compartilhar feedbacks e trocar aprendizados 🤍
 
 ## Projeto 🛠️
-![image](https://github.com/DannyCMMarques/dannysmoveis/assets/147952313/4f2bd3eb-930a-47e9-8d20-6d9b9ea115c7)
-
-
-
--Versão Mobile
+![image](https://github.com/DannyCMMarques/dannyscoffee/blob/main/assets/imagens/DannysCoffee%20versao%20desktop.jpg)
+-Versão Desktop
 
 
 Site feito para finalidade de estudo, foi utilizado HTML,CSS e Bootstrap. Foi realizado na versão Desktop e mobile first.
