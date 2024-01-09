@@ -1,5 +1,5 @@
 
-# 💻 Projetos-HTML-CSS- ***Danny's Coffee ***💻
+# 💻 Projetos-HTML-CSS- ***Danny's Coffee***💻
 Aprendendo através da realização de pequenos projetos de HTML e CSS
 
 ***"Não desprezem os pequenos começos"***
